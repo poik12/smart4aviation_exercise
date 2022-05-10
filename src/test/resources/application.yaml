@@ -1,0 +1,15 @@
+spring:
+  # Database Properties
+  datasource:
+    url: jdbc:h2:mem:test_db;DB_CLOSE_DELAY=-1;DATABASE_TO_UPPER=false
+    username: test
+    password: test
+    driver-class-name: org.h2.Driver
+  # JPA Properties
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+  # Console
+  output:
+    ansi:
+      enabled: always

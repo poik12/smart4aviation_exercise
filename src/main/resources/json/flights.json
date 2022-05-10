@@ -1,0 +1,37 @@
+[
+  {
+    "flightId": 0,
+    "flightNumber": 7216,
+    "departureAirportIATACode": "YYT",
+    "arrivalAirportIATACode": "PPX",
+    "departureDate": "2019-10-10T12:04:09-02:00"
+  },
+  {
+    "flightId": 1,
+    "flightNumber": 7594,
+    "departureAirportIATACode": "YYT",
+    "arrivalAirportIATACode": "GDN",
+    "departureDate": "2018-01-19T12:55:39-01:00"
+  },
+  {
+    "flightId": 2,
+    "flightNumber": 8329,
+    "departureAirportIATACode": "YYZ",
+    "arrivalAirportIATACode": "PPX",
+    "departureDate": "2014-05-25T12:47:15-02:00"
+  },
+  {
+    "flightId": 3,
+    "flightNumber": 5663,
+    "departureAirportIATACode": "SEA",
+    "arrivalAirportIATACode": "GDN",
+    "departureDate": "2021-06-01T03:00:21-02:00"
+  },
+  {
+    "flightId": 4,
+    "flightNumber": 9538,
+    "departureAirportIATACode": "LAX",
+    "arrivalAirportIATACode": "PPX",
+    "departureDate": "2020-03-17T11:23:16-01:00"
+  }
+]
